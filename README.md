@@ -4,7 +4,6 @@
 
 Sou uma desenvolvedora apaixonada por tecnologia e inovação.
 
-## Áreas de Interesse
 
 ## Habilidades Técnicas
 

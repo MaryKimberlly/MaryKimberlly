@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**MaryKimberlly/MaryKimberlly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou Mary Kimberly! ❤️👋
+![](https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif)
 
-Here are some ideas to get you started:
+Sou uma desenvolvedora apaixonada por tecnologia e inovação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Áreas de Interesse
+
+## Habilidades Técnicas
+
+- **Linguagens:** Python, JavaScript, HTML, CSS
+- **Frameworks:** Django
+
+## Contato
+
+- **Email:** [marykiimberlly@gmail.com](mailto:marykiimberlly@gmail.com)
+- **LinkedIn:** [Mary Kimberlly](https://www.linkedin.com/in/mary-kimberlly)
+
+## Estudante
+- Atualmente estou estudando na [Alura](https://www.alura.com.br) 
+- Utillizo esse espaço para minha organização e compartillhamento dos meus projetos desenvolvidos
+
+

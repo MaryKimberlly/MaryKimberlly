@@ -1,5 +1,5 @@
 
-# Olá, eu sou Mary Kimberly! ❤️👋
+# Olá, eu sou Mary Kimberlly! ❤️👋
 ![](https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif)
 
 Sou uma desenvolvedora apaixonada por tecnologia e inovação.
